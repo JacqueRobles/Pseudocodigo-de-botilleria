@@ -1,6 +1,28 @@
-class Productos:
-pass
+class Products{
+##attributes##
+name =''
+price =''
+type =''  ##tipo especifico de producto
+category =''  ##que tipo de seccion entra
+brand =''
+barcode =''
 
-class Contratistas:
-pass
+expiration_date =''
+amount =''
+availability =''
+replenishment_date =''
+minimum_quantity =''
 
+##end attributes##
+
+##start methods##
+
+
+##end methods##
+}
+
+class Workers{
+
+
+
+}
